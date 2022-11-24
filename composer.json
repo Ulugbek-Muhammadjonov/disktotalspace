@@ -1,0 +1,33 @@
+{
+  "name": "ulugbek/disktotalspace",
+  "description": "Monitor disk space",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "extension",
+    "disk",
+    "total",
+    "space",
+    "disk total space",
+    "widget",
+    "ulugbek",
+    "muhammadjonov",
+    "free",
+    "uz"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Muhammadjonov Ulugbek",
+      "email": "muhammadjonovulugbek98@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ulugbek\\disktotalspace\\": ""
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  }
+}
