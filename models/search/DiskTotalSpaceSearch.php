@@ -7,7 +7,7 @@ use yii\data\ActiveDataProvider;
 use ulugbek\disktotalspace\models\DiskTotalSpace;
 
 /**
- * DiskTotalSpaceSearch represents the model behind the search form of `common\modules\disktotalspace\models\DiskTotalSpace`.
+ * DiskTotalSpaceSearch represents the model behind the search form of `ulugbek\disktotalspace\models\DiskTotalSpace`.
  */
 class DiskTotalSpaceSearch extends DiskTotalSpace
 {

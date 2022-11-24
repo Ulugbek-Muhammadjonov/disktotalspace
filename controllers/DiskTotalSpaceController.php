@@ -2,8 +2,8 @@
 
 namespace ulugbek\disktotalspace\controllers;
 
-use common\modules\disktotalspace\models\DiskTotalSpace;
-use common\modules\disktotalspace\models\search\DiskTotalSpaceSearch;
+use ulugbek\disktotalspace\models\DiskTotalSpace;
+use ulugbek\disktotalspace\models\search\DiskTotalSpaceSearch;
 use yii\filters\AccessControl;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
